@@ -130,20 +130,20 @@ path    path에 설정해두면 어느 디렉토리에서도 파일 실행가능
 
 software - sysem - os
 
-                           - le - compiler        a.txt
+                 - le - compiler       a.txt
 
-                                  - interpreter    b.txt
+                      - interpreter    b.txt
 
-                           - util                         c.txt        (.txt개념은 윈도우에만)
+                 - util                c.txt        (.txt개념은 윈도우에만)
 
-             - app                                      d.txt
+          - app                        d.txt
 
 위를 만드는 방법
 
 현재 software
 
 mkdir system
-a
+
 mkdir system / os
 
 mkdir을 사용해서 파일 만들기 해보세요
