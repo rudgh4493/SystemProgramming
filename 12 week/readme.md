@@ -23,7 +23,7 @@ fork다음의 명령들을 실행함
 
 나 자신을 실행하고 복제도 실행함
 
-![image.png](image/image/image.png)
+![image.png](image/image.png)
 
 _________________
 
