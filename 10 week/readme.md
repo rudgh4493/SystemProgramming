@@ -86,7 +86,7 @@ i-노드
 
 파일을 위한 커널 자료구조
 
-![image.png](image/image/image%203.png)
+![image.png](image/image%203.png)
 
 파일 상태(file status)
 
@@ -94,7 +94,7 @@ i-노드
 
 stat 구조체
 
-![image.png](image/image/image%204.png)
+![image.png](image/image%204.png)
 
 ftype.c
 
